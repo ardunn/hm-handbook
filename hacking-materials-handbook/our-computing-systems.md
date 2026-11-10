@@ -42,7 +42,7 @@ and fill out the user agreement form here
 
 [https://sites.google.com/a/lbl.gov/high-performance-computing-services-group/useragreement](https://sites.google.com/a/lbl.gov/high-performance-computing-services-group/useragreement)
 
-and then send an email to hpcshelp@lbl.gov to request an account - make sure the email specifically requests access to the “lr\_matminer” condo. Once your account is ready and you are able to login, you can see the group softwares that are not available on Lawrencium by default here: /global/common/software/m2439/example\_config\_cori
+and then send an email to hpcshelp@lbl.gov to request an account - make sure the email specifically requests access to both the “lr\_matminer” condo and the “pc\_automat” account. Once your account is ready and you are able to login, you can see the group softwares that are not available on Lawrencium by default here: /global/common/software/m2439/example\_config\_cori
 
 ### Which Lawrencium account to use
 

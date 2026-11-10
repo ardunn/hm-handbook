@@ -15,6 +15,7 @@
   * [Conference travel](hacking-materials-handbook/conference-travel.md)
   * [Getting help](hacking-materials-handbook/getting-help.md)
   * [Our computing systems](hacking-materials-handbook/our-computing-systems.md)
+  * [LLMs and token usage](hacking-materials-handbook/llms-and-token-usage.md)
   * [Open science and arxiv / chemrxiv](hacking-materials-handbook/open-science-and-arxiv-chemrxiv.md)
   * [Information for graduate students](hacking-materials-handbook/information-for-graduate-students.md)
   * [Giving effective presentations](hacking-materials-handbook/giving-effective-presentations.md)
