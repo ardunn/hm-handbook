@@ -43,3 +43,11 @@ and fill out the user agreement form here
 [https://sites.google.com/a/lbl.gov/high-performance-computing-services-group/useragreement](https://sites.google.com/a/lbl.gov/high-performance-computing-services-group/useragreement)
 
 and then send an email to hpcshelp@lbl.gov to request an account - make sure the email specifically requests access to the “lr\_matminer” condo. Once your account is ready and you are able to login, you can see the group softwares that are not available on Lawrencium by default here: /global/common/software/m2439/example\_config\_cori
+
+### Which Lawrencium account to use
+
+Use these accounts in this order:
+
+1. `lr_matminer` – we have unlimited usage for our 4 nodes, and likely priority queuing. Use this if possible / workable.
+2. `pc_automat` – we get 500K SUs for free every year. Use this next if `lr_matminer` is not possible or is delaying your work.
+3. `ac_matminer` – we pay for usage. Do not use without prior approval from Anubhav.
