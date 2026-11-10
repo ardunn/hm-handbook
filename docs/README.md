@@ -15,7 +15,7 @@ layout:
 
 # Hacking Materials handbook
 
-<figure><img src=".gitbook/assets/new_logo_LB_AJ (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="assets/new_logo_LB_AJ (1).png" alt=""><figcaption></figcaption></figure>
 
 [hackingmaterials.lbl.gov](./#\_toc\_250023-1)
 

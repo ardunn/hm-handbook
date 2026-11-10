@@ -13,8 +13,8 @@ description: >-
 
 
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-11-22 at 3.16.45 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../assets/Screenshot 2023-11-22 at 3.16.45 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-<img src="../.gitbook/assets/image (6).png" alt="" data-size="original">![](<../.gitbook/assets/image (7).png>)
+<img src="../assets/image (6).png" alt="" data-size="original">![](<../assets/image (7).png>)
 
-![](<../.gitbook/assets/image (8).png>)1
+![](<../assets/image (8).png>)1

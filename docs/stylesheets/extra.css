@@ -1,0 +1,97 @@
+/* Match hackingmaterials.lbl.gov: Dosis for headings and navigation, Mulish (formerly Muli) for text,
+   #016fde for links, and a white header with grey uppercase labels. */
+@import url("https://fonts.googleapis.com/css2?family=Dosis:wght@400;500;600;700&display=swap");
+
+:root {
+  --hm-blue: #016fde;
+  --md-primary-fg-color: #f8f8f8;
+  --md-primary-fg-color--light: #ffffff;
+  --md-primary-fg-color--dark: #f2f2f2;
+  --md-primary-bg-color: #3d3d3d;
+  --md-primary-bg-color--light: #636363;
+  --md-accent-fg-color: var(--hm-blue);
+}
+
+[data-md-color-scheme="default"] {
+  --md-typeset-a-color: var(--hm-blue);
+  --md-default-fg-color: #333333;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #1e2129;
+  --md-primary-fg-color--dark: #16181d;
+  --md-primary-bg-color: #e6e6e6;
+  --md-primary-bg-color--light: #b0b0b0;
+  --md-typeset-a-color: #4d9cf0;
+  --md-accent-fg-color: #4d9cf0;
+}
+
+/* Header: white bar with a thin rule, like the main site's navbar. */
+.md-header {
+  box-shadow: 0 1px 0 #e7e7e7;
+}
+.md-header__title,
+.md-tabs__link {
+  font-family: "Dosis", sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+/* Headings and sidebar in Dosis. */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-nav {
+  font-family: "Dosis", sans-serif;
+}
+.md-typeset h1 {
+  font-weight: 600;
+  color: inherit;
+}
+.md-typeset h2,
+.md-typeset h3 {
+  font-weight: 600;
+}
+.md-nav {
+  font-size: 0.83rem;
+}
+.md-nav__link--active,
+.md-nav__link:hover {
+  color: var(--md-accent-fg-color);
+}
+
+/* Search box readable on a white header. */
+[data-md-color-scheme="default"] .md-search__form {
+  background-color: #ffffff;
+}
+[data-md-color-scheme="default"] .md-search__form:hover {
+  background-color: #e8e8e8;
+}
+
+/* Link back to the group website, styled like the main site's menu items. */
+.md-header__button.hm-home {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  color: var(--md-primary-bg-color--light);
+  font-family: "Dosis", sans-serif;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  white-space: nowrap;
+}
+.md-header__button.hm-home:hover {
+  color: var(--md-accent-fg-color);
+  opacity: 1;
+}
+.md-header__button.hm-home svg {
+  fill: currentColor;
+  width: 1.2rem;
+  height: 1.2rem;
+}
+@media screen and (max-width: 59.984375em) {
+  .hm-home__label { display: none; }
+}

@@ -10,8 +10,8 @@ Many new discoveries remain to be uncovered in the field of materials design and
 
 
 
-<figure><img src="../.gitbook/assets/group1.jpeg" alt=""><figcaption><p>HackingMaterials group in 2023</p></figcaption></figure>
+<figure><img src="../assets/group1.jpeg" alt=""><figcaption><p>HackingMaterials group in 2023</p></figcaption></figure>
 
 
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption><p>View of the Bay from Building 67 @ LBNL</p></figcaption></figure>
+<figure><img src="../assets/image (3).png" alt="" width="375"><figcaption><p>View of the Bay from Building 67 @ LBNL</p></figcaption></figure>

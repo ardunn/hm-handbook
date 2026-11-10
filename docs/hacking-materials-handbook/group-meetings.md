@@ -14,6 +14,6 @@ There a few types of group meetings that you should make sure you have calendar 
 
 We have lunch every two weeks jointly with our group and members of Persson research group. We also have group events from time to time, see some pictures below!
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Hiking the Matt Davis trail in Marin</p></figcaption></figure>
+<figure><img src="../assets/image.png" alt=""><figcaption><p>Hiking the Matt Davis trail in Marin</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/group2.jpeg" alt=""><figcaption><p>Bowling in Oakland</p></figcaption></figure>
+<figure><img src="../assets/group2.jpeg" alt=""><figcaption><p>Bowling in Oakland</p></figcaption></figure>

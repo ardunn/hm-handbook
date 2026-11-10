@@ -27,8 +27,8 @@ If you just need a break from your desk, some places to work apart from your off
 * UC Berkeley campus, including the Free Speech Movement cafe which has rotating newspaper headlines
 * Downtown and campus-area coffee shops&#x20;
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>The Molecular Foundry 3rd floor lounge has a view overlooking San Francisco.</p></figcaption></figure>
+<figure><img src="../assets/image (10).png" alt=""><figcaption><p>The Molecular Foundry 3rd floor lounge has a view overlooking San Francisco.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p><em>The library reading room near the lab cafe is a quiet and attractive place to work</em></p></figcaption></figure>
+<figure><img src="../assets/image (11).png" alt=""><figcaption><p><em>The library reading room near the lab cafe is a quiet and attractive place to work</em></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p><em>The UC Botanical Garden Redwood Grove is a 5-minute walk from our offices.</em></p></figcaption></figure>
+<figure><img src="../assets/image (12).png" alt=""><figcaption><p><em>The UC Botanical Garden Redwood Grove is a 5-minute walk from our offices.</em></p></figcaption></figure>

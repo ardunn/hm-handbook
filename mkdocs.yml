@@ -1,0 +1,50 @@
+site_name: Hacking Materials Handbook
+site_url: https://hackingmaterials.lbl.gov/handbook/
+repo_url: https://github.com/hackingmaterials/handbook
+edit_uri: edit/main/docs/
+use_directory_urls: false
+
+theme:
+  name: material
+  custom_dir: overrides
+  font:
+    text: Mulish
+    code: Roboto Mono
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.highlight
+    - search.suggest
+    - toc.follow
+    - content.action.edit
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+plugins:
+  - search
+  - literate-nav:
+      nav_file: SUMMARY.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - attr_list
+  - md_in_html
+  - tables
+
+extra_css:
+  - stylesheets/extra.css

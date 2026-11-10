@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Table of contents
 
 * [Hacking Materials handbook](README.md)
