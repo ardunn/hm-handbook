@@ -102,7 +102,7 @@ A. Yes. Here’s some examples.
 
 > **Examiner:** “Have you considered using `<method A>` instead of `<method B>` you propose here?”&#x20;
 > 
-> **Bad answer:** “Uhhm, well, no. My advisor said we should use `<method A>`. I remember seeing is really good for this kind of problem.”
+> **Bad answer:** “Uhhm, well, no. My advisor said we should use `<method B>`. I remember seeing is really good for this kind of problem.”
 > 
 > **Good answer:** “Yes, in fact we have looked into but it was limited because of `<explanation>`. In particular, `<reason>` causes the accuracy to be far off, often more than 200%. A recent study by Author et al. showed was both less accurate and more expensive than across solids. So, despite the fact requires empirical fitting and has problems like `<problem>`, it seems like the best approach at this time. However, I’m definitely open to suggestions - what do you think about `<alternative>` ?”
 
